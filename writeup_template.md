@@ -19,12 +19,12 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/Undistorted image.PNG "Undistorted"
+[image1]: "./output_images/Undistorted_image.PNG" "Undistorted"
 [image2]: ./test_images/test1.jpg "Road Transformed"
 [image3]: ./output_images/binary_output.JPG "Binary Example"
-[image4]: ./output_images/Top view perspective image.PNG "Warp Example"
+[image4]: ./output_images/Top_view.PNG "Warp Example"
 [image5]: ./output_images/color_fit_lines.jpg "Fit Visual"
-[image6]: ./output_images/Found lane and Curvature.PNG "Output"
+[image6]: ./output_images/Found_lane_radius.PNG "Output"
 [video1]: ./videos_output/project_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
