@@ -19,8 +19,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/Undistorted_image.PNG "Undistorted"
-[image2]: ./test_images/test1.jpg "Road Transformed"
+[image1]: ./output_images/draw_chess_borders.PNG "Undistorted"
+[image2]: ./output_images/Undistorted_image.PNG "Undistorted"
 [image3]: ./output_images/binary_output.JPG "Binary Example"
 [image4]: ./output_images/Top_view.PNG "Warp Example"
 [image5]: ./output_images/color_fit_lines.jpg "Fit Visual"
